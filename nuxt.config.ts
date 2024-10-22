@@ -1,4 +1,7 @@
 export default defineNuxtConfig({
+  app: {
+    baseURL: '/Swiss-Fire-Safty-Website/', // Replace with your repository name
+  },
   css: ['vuetify/styles'],  // Ensure Vuetify styles are loaded
   build: {
     transpile: ['vuetify'],  // Transpile Vuetify for proper build compatibility
