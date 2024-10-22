@@ -2,6 +2,10 @@
   "name": "nuxt-app",
   "private": true,
   "type": "module",
+  "target": "static",
+  "router": {
+    "base": "/Swiss-Fire-Safty-Website/"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
