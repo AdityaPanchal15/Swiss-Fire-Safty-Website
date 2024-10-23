@@ -11,7 +11,7 @@ export default defineNuxtPlugin((nuxtApp) => {
     directives,
     icons: {
       defaultSet: 'mdi', // Use Material Design Icons (MDI)
-    },
+    }
   })
 
   nuxtApp.vueApp.use(vuetify)
