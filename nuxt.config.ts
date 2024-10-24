@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   app: {
-    baseURL: '/', // Replace with your repository name
+    baseURL: '/Swiss-Fire-Safty-Website/', // Replace with your repository name
   },
   css: [
     'vuetify/styles',
