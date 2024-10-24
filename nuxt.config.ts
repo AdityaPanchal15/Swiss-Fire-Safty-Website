@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   app: {
-    baseURL: '/Swiss-Fire-Safty-Website/', // Replace with your repository name
+    baseURL: '/', // Replace with your repository name
   },
   css: [
     'vuetify/styles',
@@ -10,11 +10,11 @@ export default defineNuxtConfig({
   },
   plugins: ['~/plugins/vuetify.js'],  // Load your custom Vuetify plugin
   devtools: { enabled: true },
-  // vite: { 
-  //   server: { 
-  //     hmr: { 
-  //       protocol: 'ws', // or 'wss' for secure host: 'localhost', },
-  //     }, 
-  //   }
-  // }
+  vite: { 
+    server: { 
+      hmr: { 
+        protocol: 'ws', // or 'wss' for secure host: 'localhost', },
+      }, 
+    }
+  }
 })
