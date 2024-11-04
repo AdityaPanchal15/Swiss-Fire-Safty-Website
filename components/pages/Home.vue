@@ -4,7 +4,7 @@
       <v-carousel-item
         v-for="i in 5"
         :key="i"
-        :src="`/images/slider${i}.png`"
+        :src="`images/slider${i}.png`"
         class="image-fill"
       ></v-carousel-item>
     </v-carousel>
