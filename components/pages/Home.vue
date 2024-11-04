@@ -9,23 +9,12 @@
       ></v-carousel-item>
     </v-carousel>
   </div>
+  <!-- Who we are section -->
+  <About />
 </template>
 
 <script setup lang="ts">
-  const items = reactive([
-    {
-      src: '~/assets/images/slider1.png',
-    },
-    {
-      src: 'https://cdn.vuetifyjs.com/images/carousel/sky.jpg',
-    },
-    {
-      src: 'https://cdn.vuetifyjs.com/images/carousel/bird.jpg',
-    },
-    {
-      src: 'https://cdn.vuetifyjs.com/images/carousel/planet.jpg',
-    },
-  ])
+import About from '../templates/Home/About.vue';
 </script>
 
 <style lang="scss">
