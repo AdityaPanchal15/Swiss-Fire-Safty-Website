@@ -1,7 +1,10 @@
 <template>
-  <v-app> 
-    <Header /> 
-  </v-app>
+  <v-layout>
+    <v-app>
+      <Header /> 
+      <slot />
+    </v-app>
+  </v-layout>
 </template>
 
 <script setup></script>

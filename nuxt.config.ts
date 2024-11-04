@@ -4,7 +4,9 @@ export default defineNuxtConfig({
   },
   css: [
     'vuetify/styles',
-  ],  // Ensure Vuetify styles are loaded
+    '~/assets/styles/global.scss',
+  ],
+
   build: {
     transpile: ['vuetify'],  // Transpile Vuetify for proper build compatibility
   },
