@@ -1,6 +1,8 @@
 <template>
-  <div>Home</div>
+  <Home />
 </template>
 
 <script setup>
+import Home from '~/components/pages/Home.vue';
+
 </script>
