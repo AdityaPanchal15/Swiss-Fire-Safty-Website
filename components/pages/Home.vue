@@ -33,10 +33,10 @@ import About from '../templates/Home/About.vue';
 @media screen and (max-width: 768px) {
   .slider-container {
     .carousel-container {
-      height: unset !important;
+      height: 237px !important;
       .image-fill {
         .v-img img {
-          object-fit: contain !important;
+          object-fit: cover !important;
           height: 100%;
         }
       }
