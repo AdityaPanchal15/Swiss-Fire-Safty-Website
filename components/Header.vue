@@ -17,6 +17,9 @@
         <v-list-item to="/services" @click="closeDrawer">
           <v-list-item-title class="text-white">Services</v-list-item-title>
         </v-list-item>
+        <v-list-item to="/products" @click="closeDrawer">
+          <v-list-item-title class="text-white">Products</v-list-item-title>
+        </v-list-item>
         <v-list-item to="/contact" @click="closeDrawer">
           <v-list-item-title class="text-white">Contact</v-list-item-title>
         </v-list-item>
@@ -30,6 +33,7 @@
       <v-container class="d-none d-md-flex justify-end">
         <v-btn text to="/" @click="closeDrawer">Home</v-btn>
         <v-btn text to="/services" @click="closeDrawer">Services</v-btn>
+        <v-btn text to="/products" @click="closeDrawer">Products</v-btn>
         <v-btn text to="/contact" @click="closeDrawer">Contact</v-btn>
       </v-container>
       <v-container class="d-flex d-md-none">
