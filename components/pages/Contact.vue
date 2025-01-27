@@ -35,7 +35,7 @@ const contactDetails = [
   {
     imgUrl: 'images/contact/office-icon.png',
     title: 'Office',
-    description: 'C-34, Arunachal Society, Arunachal Road, Subhanpura, Vadodara, Gujarat <br /> 390023.'
+    description: 'C-34, Arunachal Society, Arunachal Road, Subhanpura, Vadodara, Gujarat - 390023. <br />'
   },
   {
     imgUrl: 'images/contact/phone-icon.png',
