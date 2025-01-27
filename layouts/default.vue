@@ -3,6 +3,7 @@
     <v-app>
       <Header /> 
       <slot />
+      <Footer />
     </v-app>
   </v-layout>
 </template>
