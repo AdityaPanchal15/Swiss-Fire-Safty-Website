@@ -11,10 +11,13 @@
   </div>
   <!-- Who we are section -->
   <About />
+  <!-- Our Clients -->
+  <OurClients />
 </template>
 
 <script setup lang="ts">
 import About from '../templates/Home/About.vue';
+import OurClients from '../templates/Home/OurClients.vue';
 </script>
 
 <style lang="scss">
