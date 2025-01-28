@@ -5,7 +5,7 @@
         <img src="~/assets/logo.png" alt="Swiss Logo" class="image-container" />
       </v-col>
       <v-col cols="12" md="3" sm="4">
-        <p>Registed address:</p>
+        <p>Registered address:</p>
         <p>C-34, Arunachal Society, <br /> Arunachal Road, <br /> Subhanpura, Vadodara, Gujarat 390023.</p>
         <br />
         <p>Branch address:</p>
