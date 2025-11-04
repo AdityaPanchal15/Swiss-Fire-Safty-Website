@@ -9,15 +9,14 @@
         <p>C-34, Arunachal Society, <br /> Arunachal Road, <br /> Subhanpura, Vadodara, Gujarat 390023.</p>
         <br />
         <p>Branch address:</p>
-        <p>229, Lilleria Partamount, <br /> Tulsi Dham, Rd., Next City Mall, <br /> Maninagar Society, <br /> Manjalpur,
-          Vadodara, Gujarat 390021</p>
+        <p>SF-09, Shidhheshwer Hallmark, <br /> Ajwa Road, Vadodara, Gujarat 390021</p>
       </v-col>
       <v-col cols="12" md="3" sm="4">
         <p style="word-break: break-word">Email:
           <br /> <a href="mailto:info@swissfiresecurity.com"
             class="text-white text-decoration-none">info@swissfiresecurity.com</a>
-          <br /> <a href="mailto:vishal@swissfiresecurity.com"
-            class="text-white text-decoration-none">vishal@swissfiresecurity.com</a>
+          <!-- <br /> <a href="mailto:vishal@swissfiresecurity.com"
+            class="text-white text-decoration-none">vishal@swissfiresecurity.com</a> -->
           <br /> <a href="mailto:darpan@swissfiresecurity.com"
             class="text-white text-decoration-none">darpan@swissfiresecurity.com</a>
         </p>

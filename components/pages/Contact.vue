@@ -45,7 +45,8 @@ const contactDetails = [
   {
     imgUrl: 'images/contact/email-icon.png',
     title: 'Email',
-    description: 'info@swissfiresecurity.com <br /> vishal@swissfiresecurity.com <br /> darpan@swissfiresecurity.com'
+    // description: 'info@swissfiresecurity.com <br /> vishal@swissfiresecurity.com <br /> darpan@swissfiresecurity.com'
+    description: 'info@swissfiresecurity.com <br /> darpan@swissfiresecurity.com'
   },
   {
     imgUrl: 'images/contact/job-icon.png',
