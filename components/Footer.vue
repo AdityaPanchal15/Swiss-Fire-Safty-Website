@@ -15,8 +15,8 @@
         <p style="word-break: break-word">Email:
           <br /> <a href="mailto:info@swissfiresecurity.com"
             class="text-white text-decoration-none">info@swissfiresecurity.com</a>
-          <!-- <br /> <a href="mailto:vishal@swissfiresecurity.com"
-            class="text-white text-decoration-none">vishal@swissfiresecurity.com</a> -->
+          <br /> <a href="mailto:vishal@swissfiresecurity.com"
+            class="text-white text-decoration-none">vishal@swissfiresecurity.com</a>
           <br /> <a href="mailto:darpan@swissfiresecurity.com"
             class="text-white text-decoration-none">darpan@swissfiresecurity.com</a>
         </p>
